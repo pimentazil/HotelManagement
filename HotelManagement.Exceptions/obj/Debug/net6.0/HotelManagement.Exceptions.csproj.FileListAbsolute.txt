@@ -1,0 +1,11 @@
+C:\Users\1math\OneDrive\Documentos\HotelManagement\HotelManagement.Exceptions\bin\Debug\net6.0\HotelManagement.Exceptions.deps.json
+C:\Users\1math\OneDrive\Documentos\HotelManagement\HotelManagement.Exceptions\bin\Debug\net6.0\HotelManagement.Exceptions.dll
+C:\Users\1math\OneDrive\Documentos\HotelManagement\HotelManagement.Exceptions\bin\Debug\net6.0\HotelManagement.Exceptions.pdb
+C:\Users\1math\OneDrive\Documentos\HotelManagement\HotelManagement.Exceptions\obj\Debug\net6.0\HotelManagement.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1math\OneDrive\Documentos\HotelManagement\HotelManagement.Exceptions\obj\Debug\net6.0\HotelManagement.Exceptions.AssemblyInfoInputs.cache
+C:\Users\1math\OneDrive\Documentos\HotelManagement\HotelManagement.Exceptions\obj\Debug\net6.0\HotelManagement.Exceptions.AssemblyInfo.cs
+C:\Users\1math\OneDrive\Documentos\HotelManagement\HotelManagement.Exceptions\obj\Debug\net6.0\HotelManagement.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\1math\OneDrive\Documentos\HotelManagement\HotelManagement.Exceptions\obj\Debug\net6.0\HotelManagement.Exceptions.dll
+C:\Users\1math\OneDrive\Documentos\HotelManagement\HotelManagement.Exceptions\obj\Debug\net6.0\refint\HotelManagement.Exceptions.dll
+C:\Users\1math\OneDrive\Documentos\HotelManagement\HotelManagement.Exceptions\obj\Debug\net6.0\HotelManagement.Exceptions.pdb
+C:\Users\1math\OneDrive\Documentos\HotelManagement\HotelManagement.Exceptions\obj\Debug\net6.0\ref\HotelManagement.Exceptions.dll

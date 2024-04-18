@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HotelManagement.Communication\HotelManagement.Communication.csproj" />
+    <ProjectReference Include="..\HotelManagement.Exceptions\HotelManagement.Exceptions.csproj" />
+    <ProjectReference Include="..\HotelManagement.Infrastructure\HotelManagement.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

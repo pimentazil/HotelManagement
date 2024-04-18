@@ -1,0 +1,11 @@
+C:\Users\1math\OneDrive\Documentos\HotelManagement\HotelManagement.Communication\bin\Debug\net6.0\HotelManagement.Communication.deps.json
+C:\Users\1math\OneDrive\Documentos\HotelManagement\HotelManagement.Communication\bin\Debug\net6.0\HotelManagement.Communication.dll
+C:\Users\1math\OneDrive\Documentos\HotelManagement\HotelManagement.Communication\bin\Debug\net6.0\HotelManagement.Communication.pdb
+C:\Users\1math\OneDrive\Documentos\HotelManagement\HotelManagement.Communication\obj\Debug\net6.0\HotelManagement.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1math\OneDrive\Documentos\HotelManagement\HotelManagement.Communication\obj\Debug\net6.0\HotelManagement.Communication.AssemblyInfoInputs.cache
+C:\Users\1math\OneDrive\Documentos\HotelManagement\HotelManagement.Communication\obj\Debug\net6.0\HotelManagement.Communication.AssemblyInfo.cs
+C:\Users\1math\OneDrive\Documentos\HotelManagement\HotelManagement.Communication\obj\Debug\net6.0\HotelManagement.Communication.csproj.CoreCompileInputs.cache
+C:\Users\1math\OneDrive\Documentos\HotelManagement\HotelManagement.Communication\obj\Debug\net6.0\HotelManagement.Communication.dll
+C:\Users\1math\OneDrive\Documentos\HotelManagement\HotelManagement.Communication\obj\Debug\net6.0\refint\HotelManagement.Communication.dll
+C:\Users\1math\OneDrive\Documentos\HotelManagement\HotelManagement.Communication\obj\Debug\net6.0\HotelManagement.Communication.pdb
+C:\Users\1math\OneDrive\Documentos\HotelManagement\HotelManagement.Communication\obj\Debug\net6.0\ref\HotelManagement.Communication.dll
